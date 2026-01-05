@@ -1,0 +1,15 @@
+module.exports = {
+  'arrow-body-style': ['error', 'as-needed'],
+  'arrow-parens': ['error', 'always'],
+  'arrow-spacing': 'error',
+  'no-confusing-arrow': 'error',
+  'no-duplicate-imports': 'error',
+  'no-var': 'error',
+  'object-shorthand': ['error', 'always'],
+  'prefer-arrow-callback': 'error',
+  'prefer-const': 'error',
+  'prefer-destructuring': ['error', { object: true, array: false }],
+  'prefer-rest-params': 'error',
+  'prefer-spread': 'error',
+  'symbol-description': 'error',
+};
