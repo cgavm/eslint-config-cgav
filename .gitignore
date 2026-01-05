@@ -8,7 +8,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Lockfiles locales (opcional, ver nota)
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
