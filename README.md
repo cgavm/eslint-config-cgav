@@ -9,5 +9,5 @@ eslint-plugin-node eslint-plugin-promise
 ## Use form
 
 {
-"extends": ["@tu-marca/eslint-config"]
+"extends": ["@cgav/eslint-config"]
 }
